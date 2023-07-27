@@ -1,9 +1,17 @@
 
+export function loader(){
+    return "Loading..."
+}
+
+
+
 export default function Home(){
+
+
     return (
 
         <>
-           <p>Home</p>
+           <p>Home Component</p>
             
         </>
     )
