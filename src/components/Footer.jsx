@@ -3,7 +3,9 @@ export default function Footer(){
     return (
 
         <>
-           <p>Footer</p>
+        <footer>
+            <p>Footer</p>
+        </footer> 
             
         </>
     )

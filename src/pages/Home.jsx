@@ -9,10 +9,11 @@ export default function Home(){
 
 
     return (
-
         <>
-           <p>Home Component</p>
-            
+            <div className="page home-container">
+                <p>Home Component</p>
+            </div>
         </>
+       
     )
 }
