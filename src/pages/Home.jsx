@@ -16,10 +16,10 @@ export default function Home(){
                 </div>
 
                 <div className="tech-stack">
-                    <i class="fa-brands fa-html5 fa-2xl"></i>
-                    <i class="fa-brands fa-css3-alt  fa-2xl"></i>
-                    <i class="fa-brands fa-js  fa-2xl"></i>
-                    <i class="fa-brands fa-react  fa-2xl"></i>
+                    <i className="fa-brands fa-html5 fa-2xl"></i>
+                    <i className="fa-brands fa-css3-alt  fa-2xl"></i>
+                    <i className="fa-brands fa-js  fa-2xl"></i>
+                    <i className="fa-brands fa-react  fa-2xl"></i>
                 </div>
                 
             </div>
