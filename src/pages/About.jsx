@@ -13,18 +13,20 @@ export default function About(){
             <div>
 
             <h2>ME</h2>
-            <img className="about-img" src={me2}/>
+            <img className="about-img about-img-me" src={me2}/>
 
             </div>
 
 
             <div>
+
             <h2>WORK</h2>
             
-                <p>
+             <p>
                     Since 2011 (when I was a Junior in Highschool), I’ve worked for a company that sells street lighting products, typically lights, poles and other manufactured equipment to Cities, Utilities, DOT’s and Municipalities. 
-                </p>
+            </p>
             <img className="about-img" src={streetlight}/>
+
             <br/>
            
                 <p>
@@ -39,7 +41,7 @@ export default function About(){
                 <p>
                     In April 2022 I began my coding journey after work and in my free time.. I began with FreeCodeCamp and earned the Responsive Web Design Certificate. I then moved on to the Scrimba Frontend Developer Path and also received their certificate. This path focused on Responsive Web Design, REST APIs, React, Mobile First Design and Generative AI. 
                 </p>
-            </div>
+        </div>
 
             <div className="about-fun">
             <h2>FUN</h2>
