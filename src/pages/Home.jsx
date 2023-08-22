@@ -19,6 +19,7 @@ export default function Home(){
                         <i className="fa-brands fa-css3-alt  fa-2xl"></i>
                         <i className="fa-brands fa-js  fa-2xl"></i>
                         <i className="fa-brands fa-react  fa-2xl"></i>
+                        <i class="fa-brands fa-git-alt fa-2xl"></i>
                     </div>
                    
                 </div>
